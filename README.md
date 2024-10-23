@@ -1,7 +1,7 @@
 Hi 👋 My name is Hanin Budalama
 ===============================
 
-ICT student
+Information Technology & Networking
 -----------
 
 I am an enthusiastic ICT student specializing in networking, with a year of coding experience under my belt. My goal is to become a proficient full-stack developer, and I’m actively exploring the intersection of technology and creativity through my projects.
